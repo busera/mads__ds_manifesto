@@ -1,4 +1,4 @@
-# Personal Data Science Manifesto
+# My Personal Data Science Manifesto
 
 ## Core Principles
 
